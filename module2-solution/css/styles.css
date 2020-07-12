@@ -13,18 +13,18 @@
 
 
 div {
-    font-size: 2em;
+    font-size: 3em;
     font-weight: bolder;
     text-align: center;
 }
 
 p {
     text-align: right;
-    font-size: em;
 }
 
 p > div {
     text-align: center;
+
 }
 
 
