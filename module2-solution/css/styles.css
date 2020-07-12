@@ -12,8 +12,8 @@
 }
 
 
-div {
-    font-size: 3em;
+body > div {
+    font-size: 2em;
     font-weight: bolder;
     text-align: center;
 }
@@ -24,6 +24,7 @@ p {
 
 p > div {
     text-align: center;
+    font-size: 1.5em;
 
 }
 
