@@ -1,29 +1,30 @@
 * {
     background-color: antiquewhite;
     color: navy;
-    margin-right: auto;
-    margin-left: auto;
-    width: 90%;
-    padding: 15px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%;
+    padding: 0px;
     box-sizing: border-box;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 24px;
-    font-weight: bold;
 }
 
 
-body > div {
-    font-size: 2em;
+#title {
+    font-size: 3em;
     font-weight: bolder;
     text-align: center;
+    background-color: thistle;
 }
 
-p {
-    text-align: right;
-}
-
-p > div {
+#menu {
     text-align: center;
+}
+
+#dish {
+    text-align: right;
     font-size: 1.5em;
 
 }
