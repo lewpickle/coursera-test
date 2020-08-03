@@ -1,0 +1,58 @@
+.navbar-brand a:hover{
+    text-decoration: none;
+}
+
+.navbar-brand {
+    height: 70px;
+    padding-left: 30px;
+}
+
+.navbar-brand a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: teal;
+    font-weight: bold;
+}
+
+h1 {
+    margin: 0;
+}
+
+#header-nav {
+    background-color: palegoldenrod;
+    border-color: palegoldenrod;
+}
+
+button.navbar-toggle {
+    background-color:cornsilk;
+    border: none;
+
+}
+
+#food-title {
+    font-size: 1.6em;
+    margin: 35px 0px 20px 0px;
+    font-weight: bold;
+    color: saddlebrown;
+}
+
+#nav-list li a {
+    font-size: 1.2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+#nav-list a:hover {
+    background: rgb(241, 223, 208);
+}
+
+#nav-list {
+    background-color: burlywood;
+
+}
+
+@media (max-width: 767px) {
+    div.container#main-content {
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+}
