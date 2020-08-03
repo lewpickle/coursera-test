@@ -50,6 +50,17 @@ button.navbar-toggle {
 
 }
 
+#main-content h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(184, 90, 90);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+div.container#main-content {
+    margin-bottom: 70px;
+}
+
 @media (max-width: 767px) {
     div.container#main-content {
         margin-left: 40px;
